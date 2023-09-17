@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371544232950",
+    "project_id": "door-app-2f391",
+    "storage_bucket": "door-app-2f391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371544232950:android:65d245f757a05b4323edd7",
+        "android_client_info": {
+          "package_name": "com.vishnu.doorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371544232950-fv2tpa4mndq132u4oqsh8ghitjabutma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVanTmK-8Uqa1CVQKeITZx1UM_rz9ULJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371544232950-fv2tpa4mndq132u4oqsh8ghitjabutma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
